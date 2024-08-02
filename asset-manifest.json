@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/saint_seiya/static/css/main.52df8789.css",
-    "main.js": "/saint_seiya/static/js/main.cc71d9ef.js",
+    "main.css": "/saint_seiya/static/css/main.3f25d5f5.css",
+    "main.js": "/saint_seiya/static/js/main.faa355a5.js",
     "static/js/453.afae089e.chunk.js": "/saint_seiya/static/js/453.afae089e.chunk.js",
     "index.html": "/saint_seiya/index.html",
-    "main.52df8789.css.map": "/saint_seiya/static/css/main.52df8789.css.map",
-    "main.cc71d9ef.js.map": "/saint_seiya/static/js/main.cc71d9ef.js.map",
+    "main.3f25d5f5.css.map": "/saint_seiya/static/css/main.3f25d5f5.css.map",
+    "main.faa355a5.js.map": "/saint_seiya/static/js/main.faa355a5.js.map",
     "453.afae089e.chunk.js.map": "/saint_seiya/static/js/453.afae089e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52df8789.css",
-    "static/js/main.cc71d9ef.js"
+    "static/css/main.3f25d5f5.css",
+    "static/js/main.faa355a5.js"
   ]
 }
